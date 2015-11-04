@@ -164,7 +164,38 @@ Agencies are responsible for establishing a decision-making process that provide
 
 **3) Enterprise Architecture**
 
-Agencies shall develop an actionable enterprise architecture (EA) that describes the baseline architecture, target architecture, and a plan to get to the target architecture. The EA shall also address agency plans for significant upgrades, replacements and/or disposition of information systems when the systems can no longer effectively support missions or business functions or adequately protect agency needs. The intent is to align business and technology resources to achieve strategic outcomes. The process of describing the current and future state of the agency, and laying out a plan for transitioning from the current state to the desired future state, helps agencies eliminate waste and duplication, increase shared services, close performance gaps, and promote engagement among government, industry, and citizens.
+
+
+a) The baseline architecture is updated yearly, and shall contain at a minimum information on existing organizational elements, performance measures, processes, information, systems, drivers (law, policy, IG reports, OMB reports, GAO reports, law and policy, technologies) and locations, and the relevant relationships between these.
+
+b) The target architecture is updated yearly, and shall contain at a minimum information on planned organizational elements, performance measures, processes, information, systems, drivers (law, policy, IG reports, OMB reports, GAO reports, technologies) and locations, and the relevant relationships between these.
+
+c) The sequencing plan shall contain, at a minimum, all investments and all information systems created or replaced in a schedule covering the budget planning horizon.
+
+d) A repository containing all subordinate architectures for lines of business and indivicual information systems shall be provided and populated, organizing all architectures under the total portfolio and mission, then by capital investment, and then at the lowest level by system.
+
+e) The enterprise architecture shall be updated to reflect choices of selection and continuance made in annual investment reviews.
+
+f) The enterprise architecture shall be used to inform annual investment reviews.
+
+g) The enterprise architecture shall reflect the strategic plan and IRM strategic plan of the agency.
+
+h) The enterprise architecture shall be used to inform and update the strategic plan and IRM strategic plan of the agency.
+
+i) The enterprise architecture shall be used as the primary source of gaps identified for budget planning.
+
+J) The enterprise architecture shall be the coordination point for organizational performance improvement.
+
+K)  The enterprise architecture shall include principles for conducting appropriate solution architecture.
+
+L)  The enterprise architecture shall include a list of approved standards.
+
+M)  The enterprise architecture shall contain a list of approved technologies to be procured, and this list will act as the basis for enterprise procurement agreements.
+
+N) The enterprise architecture shall conduct 1) enterprise level activities supporting transformation; 2) segment or "line of business" architecture activities supporting performance improvement, 3) solution level architecture activities supporting improved relevance of solutions, 4) governance participation unifying portfolio, program and project management with enterprise, segment and solution architecture, 5) maturity management activities assessing the effectiveness of all architecture processes and improving those.
+
+
+
 
 #### e. Privacy and Information Security
 
